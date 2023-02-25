@@ -57,7 +57,8 @@ ESPECIFICANDO EL LENGUAJE TE LO PINTA DE COLORES-->
   for (let i = 0; i < arr.length; i++) {
     if(arr[i].ticket === "VIP" && arr[i].estado === "conocido"){
       
-      listaInvitados.enqueue(arr[i])
+      listaInvitados.enqueue(arr[i])fe
+      
     }
   }
   
