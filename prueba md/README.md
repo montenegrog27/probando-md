@@ -75,13 +75,10 @@ grdg
 
 
 <!--GitHub MARKDOWN-->
+
 * [x] tarea 1
-<<<<<<< HEAD:prueba md/Apuntes M1.md
 * [ ] tarea 2
 * [ ] tarea 3
 * [x] tarea 4
 
-=======
-* [] tarea 2
-* [] tarea 3
-* [x] tarea 4
+
