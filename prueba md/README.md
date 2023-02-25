@@ -79,6 +79,7 @@ grdg
 * [x] tarea 1
 * [ ] tarea 2
 * [ ] tarea 3
-* [x] tarea 4
+* [x] tarea 4 
+---
 
 
