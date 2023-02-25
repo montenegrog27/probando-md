@@ -76,7 +76,13 @@ grdg
 
 <!--GitHub MARKDOWN-->
 * [x] tarea 1
+<<<<<<< HEAD:prueba md/Apuntes M1.md
 * [ ] tarea 2
 * [ ] tarea 3
 * [x] tarea 4
 fesfsefsef
+=======
+* [] tarea 2
+* [] tarea 3
+* [x] tarea 4
+>>>>>>> c57564c6d96ad6ed329beb0506da31a44d79e14e:prueba md/README.md
