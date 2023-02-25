@@ -58,7 +58,7 @@ ESPECIFICANDO EL LENGUAJE TE LO PINTA DE COLORES-->
     if(arr[i].ticket === "VIP" && arr[i].estado === "conocido"){
       
       listaInvitados.enqueue(arr[i])fe
-      
+
     }
   }
   
@@ -76,6 +76,6 @@ grdg
 
 <!--GitHub MARKDOWN-->
 * [x] tarea 1
-* [] tarea 2
-* [] tarea 3
+* [ ] tarea 2
+* [ ] tarea 3
 * [x] tarea 4
